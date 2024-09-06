@@ -8,6 +8,7 @@ Now, my focus is Web Development, at inusitate creations and fun.
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angellington&layout=compact&theme=radical" />
   </a>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thecodechaser&theme=tokyonight)](https://github.com/thecodechaser)<br>
 
  #
  
