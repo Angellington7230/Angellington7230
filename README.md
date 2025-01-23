@@ -33,6 +33,7 @@ Now, my focus is Web Development, at inusitate creations and fun.
 <code><img height="20" alt="css" src="https://skillicons.dev/icons?i=js&perline=13"></code>
 <code><img height="20" alt="css" src="https://skillicons.dev/icons?i=git&perline=13"></code>
 <code><img height="20" alt="css" src="https://skillicons.dev/icons?i=github&perline=13"></code>
+<code><img height="20" alt="css" src="https://skillicons.dev/icons?i=scss&perline=13"></code>
 <code><img height="20" alt="postgresql" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png"></code>
 
 </div>
